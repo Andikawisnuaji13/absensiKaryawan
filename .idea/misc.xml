@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/drawable/ic_about.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/drawable/ic_cloud.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/drawable/ic_hadir.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/drawable/ic_scan.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/drawable/state_bnve.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_about.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_daftar.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_daftar_cloud.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_register.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_scan.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_scan2.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/activity_splash.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/bottomnavigation_menu.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/item_daftar.xml" value="0.16597510373443983" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/layout/state_bnve.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/menu/bottomnavigation_menu.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AbsensiKaryawan/app/src/main/res/menu/state_bnve.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
